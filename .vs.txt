@@ -1,8 +1,0 @@
-*
-!*/
-!*.cpp
-!*.h
-!.gitignore
-
-.vs/
-.git/
