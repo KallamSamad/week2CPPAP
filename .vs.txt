@@ -1,5 +1,8 @@
+*
+!*/
+!*.cpp
+!*.h
+!.gitignore
+
 .vs/
-Debug/
-Release/
-x64/
-*.user
+.git/
